@@ -89,4 +89,4 @@ For feedback or questions, feel free to:
 ---
 
 ### **🔍 Preview**  
-![Dashboard Preview](image/dataset_preview.png)
+![Dashboard Preview](images/dataset_preview.png)
